@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:permission_handler/permission_handler.dart';
 import 'package:photo_clould/screens/main/main_screen.dart';
 import 'package:photo_clould/screens/permissions-required/permission_required_screen.dart';
 import 'package:photo_clould/screens/splash_screen.dart';
