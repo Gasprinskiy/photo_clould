@@ -37,6 +37,7 @@ dependencies:
   permission_handler: ^11.0.1
   photo_manager: ^3.0.0
   shared_preferences: ^2.5.3
+  image: ^4.0.17
 
 dev_dependencies:
   flutter_test:

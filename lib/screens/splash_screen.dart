@@ -32,7 +32,7 @@ class _SplashScreenState extends State<SplashScreen> {
     }
 
     if (granted) {
-      Navigator.pushReplacementNamed(context, "/main");
+      Navigator.pushReplacementNamed(context, "/gallery");
     } else {
       Navigator.pushReplacementNamed(context, "/permission_required");
     }
